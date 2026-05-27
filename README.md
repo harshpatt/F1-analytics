@@ -23,8 +23,8 @@
 |---|---|---|---|
 | 01 | `01_eda_data_loading.ipynb` | EDA, CRISP-DM, Data Quality | ✅ Complete |
 | 02 | `02_linear_regression.ipynb` | Linear Regression, MSE, R², Residuals | ✅ Complete |
-| 03 | `03_clustering.ipynb` | K-Means, Strategy Groups | 🔄 In progress |
-| 04 | `04_classification.ipynb` | Random Forest, Feature Importance | 🔄 In progress |
+| 03 | `03_clustering.ipynb` | K-Means, Strategy Groups | 🔄 Work In progress |
+| 04 | `04_classification.ipynb` | Random Forest, Feature Importance | 🔄 Work In progress |
 
 ---
 
